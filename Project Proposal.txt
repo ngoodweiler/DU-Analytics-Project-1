@@ -1,0 +1,39 @@
+Project Proposal 
+
+Project Title: Finding Mark a House - Kinda!
+
+Team Members:
+    - Mark Medernach
+    - Nate Crawford
+    - Nolan Goodweiler
+    - Ryan Benish
+    - Samuel Rotbart
+
+Project Decription/Outline:
+
+Mark is looking for a house in the Denver metro area, and we figured it would be a good opportunity to use our new skills!  
+
+In order to help find a house that is in a desirable location and within Mark's budget, we are leveraging a combination of available APIs
+and datasets available online.  Using that data, we will be mapping and analying pricing trends, crime data in various neighborhoods and
+walkscores for various neighborhoods to determine desirable places to live. 
+
+Research Question to Answer:
+
+What neighborhoods in the Denver Metro area has the most afforadable real estate bassed  on several other factors. 
+
+Datasets to Be Used:
+
+Realtor API - Listing of Houses Sold Recently
+Realtor API - Listing of Houses For Samue
+Walk Score API - Walk Score of Various Locations
+Crime Data - Colorado Crime Data of VIolent and Non-Violent Crimes
+Zip Code Database - Database of all US Zip Codes as a Key
+Google API - Looking at Closest Resturaunts, etc.
+
+Rough Breakdown of Tasks:
+
+- Come up with a preliminary list of zip codes to look at.
+- Use the list to pull real estate data for houses for sale and houses sold.
+- Determine pricing trends in real estate data.
+- Map and analyze crime, walk score and google maps data to determine best neighborhoods.
+- Narrow down search to a list of reasonable listings.
