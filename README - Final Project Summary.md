@@ -66,3 +66,9 @@ This not only gave the group the top 5 zip codes, but allowed us to make another
 ![Final Mark Score Heatmap](https://github.com/ngoodweiler/DU-Analytics-Project-1/blob/master/Images/final_score_heatmap.png)
 
 Using the final 5 zip codes, we narrowed down the results by an overall price range, desired bedrooms, bathrooms, etc.  to create a view of listings in the most desirable zip codes within Mark's budget and with his preferences.  We created an interactive scatter plot with the results to show basic information of the various listings that meet Mark's critera.  
+
+### Final Question – What houses should Mark look to purchase?
+
+The final stage of our project was to plot the available houses in the final 5 zip codes we had identified. We used an additional set of filters to determine the list of houses with characteristics Mark is looking for in a home (beds, baths, price). With this final list of homes we created an interactive plotly.express scatter plot. The interactive plot allows us to hover over each of the data points and find the final list of houses Mark should go visit.
+
+Using the plotly scatter plot, we narrowed the search down to three final houses. These houses were all within Mark’s price range and had a larger square footage than the other houses in the zip codes we analyzed. Unfortunately, due to the Denver Real Estate market, we are going to have to rerun our analysis since all of the homes we identified for Mark are now under contract!
